@@ -1,64 +1,104 @@
 
-# Career Goals Reflection Template
+ Career Goals Reflection
 
-### Introduction to the Template
+ #Personal Information
 
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
-### Personal Information
-
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- Name: Thandolwethu Mbokazi
+- Date: 19/07/2024
+- Current Role/Position: Student
+- Field of Interest: Software Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
+    *Current Skills:
+      - Beginner in HTML5
+      - Beginner in CSS3
+      - Basic at Git and GitHub
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    *Skills That Need Development:
+     - HTML5 AND CSS3
+     - Problem-Solving skill
+     - Attention to detail
+    
+u    
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    *Interests in Career:
+    - Understanding how the "internet" works.
+    - The analytical thinking part of programming.
+    - Abilty to look at the behind-the-scenes of how my favourite apps work.
+    - Ability to glimpse into how some of the day-to-day websites we use work.
+    - The freeing ssense of being in control.
+    - The Idea of learning new things constantly.
+
+    *Important Values in work place:
+    - Good communication
+    - reliability
+    - good reasoning
+    - respect
+    - positivity 
+    - inclusivity
+
+
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    *Industries researched:
+       -Retail,
+       -healthcare
+       -business
+       -gaming
+    
+    *Industies that interested me:
+      - healthcare 
+      - businesss 
+
+
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    *Reflect on how these industries/roles align with your skills, interests, and values:
+      
+      - The healthcare industry is an industry where reliabilty is guaranteed as they work with patients who constently rely on the healthcare professionals. Therefore this aligns with one of my own values. Healthcare also aligns with my  own personal interests a I would get to see how technology is used in a sector I didn't expect to use technologies such as web design and user-interfaces. 
+   
+      - The business industry has a number of opportunities to grow withinn the industry. Not just in relation to coding but in other aspects aswell. Thiss aligns with my interest in learning. I feel that in the business industry I would be able to gain a lot of valuable information. It also aligns with the value of good communication in a business as in the business industry you need to be able to communicate well in order for you to become successful.
+
+    *Identify any gaps or areas for further exploration.
+       - I could research a little more on the industries that have interested me as I believe I only have a surface knowledge of the industries and how they use technolodgy in their daily lives.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    *List your specific, measurable, achievable, relevant, and time-bound goals.
+     
+      - Become a entry-level front-end developer
+      - Study to become a fullstack developer
+    
+    *Explain the rationale behind each goal
+     
+     - Programming is something that's interested me ever since I was first indroduced to coding. So being able to get my first job as a programmer would be a monumetus moment for me, 
+     - I want to expand on the languages and Knowledge I have on programming. I alos want to be able to understand how both the back-end of and front-end of developing works and how they work together. 
+
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    *Outline your long-term career aspirations.
+     -Have a senior role in Fullstack Development. 
+     -Have a full and thourough understanding of HTML, CSS and JaavaScript
+     -Be well enough versed in Programming to be able to teach it.
+
+    *Describe how these align with your interests and skills.
+    These align with my innterests as they allow me to grow in my chosen field which means i get ot continue to learn.Also achieving these goals satisy my inteest of wanting to know how the web and apps work. With the current skillset I have I'm able to grow it if i am able to achieve my goals.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
+    *Detail specific actions or steps needed to achieve each short-term goal.
+       - I would need to practice coding frequently.
+       - Seek ut help if I need it.
+       -Speak to people who have achieved this goal so that I may understand what needs to be done.
     - Include any resources or support required.
 2. **Preparation for Long-term Goals**:
     
