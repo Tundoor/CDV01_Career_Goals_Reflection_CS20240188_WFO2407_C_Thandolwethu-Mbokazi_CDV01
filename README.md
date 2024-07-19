@@ -126,25 +126,25 @@ u
     - Consider additional skills, experiences, or qualifications needed.
         Additional skills would be becoming comfortable with networking and talking to people.
         Need to learn new languages to add to my portfolio.
-        
+
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    *Identify potential obstacles or challenges in reaching your goals.
+       Loss of motivatuon
+
+    *Consider strategies to overcome these challenges.
+        To overcome this I could try remind myself why I wanted to achieve this goal to begin with by looking back at notes or anything that culd remind me. 
+     
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+        Use the internet to help renforce everything I've learned.
+        Make use of CodeSpaces resources by participating in community Friday's and asking for help from my coach.
+    
+    
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
