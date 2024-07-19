@@ -55,7 +55,13 @@ u
       - healthcare 
       - businesss 
 
+    
+    
+    - List the industries or roles you have researched.
+    - Note any particular areas that piqued your interest.
 
+    - List the industries or roles you have researched.
+    - Note any particular areas that piqued your interest.
 2. **Alignment with Personal Profile**:
     
     *Reflect on how these industries/roles align with your skills, interests, and values:
@@ -95,15 +101,32 @@ u
 
 1. **Steps to Achieve Short-term Goals**:
     
-    *Detail specific actions or steps needed to achieve each short-term goal.
-       - I would need to practice coding frequently.
-       - Seek ut help if I need it.
-       -Speak to people who have achieved this goal so that I may understand what needs to be done.
-    - Include any resources or support required.
+    - Detail specific actions or steps needed to achieve each short-term goal.
+      *Become a entry level front-end developer:
+        Complete course with CodeSpace
+        Work on building up my skills by coding frequently
+        Make use of the resources I have.
+      *Become A full stack developer:
+        Solidify the skills I have.
+        Learn new programming languages to add on to the ones i'm currently learning.
+        Network in order to learn from others
+
+       
+     - Include any resources or support required.
+         Social Network by going to community Fridays
+         Ask my coach for pointers and help when needed 
+         Use the resources available on the internet such as Scrimba, FreeCodeCamp, etc
+       
+     
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+        To achieve my long term aspirations, I would need to firstly finish my short-term goals. They lay the foundation on whether or not my long term goals will be achievable. I also need to do a lot of extra work on my end, like workking while trying to study therefore needing to work on my time management so that my goals may be achieved.
+
     - Consider additional skills, experiences, or qualifications needed.
+        Additional skills would be becoming comfortable with networking and talking to people.
+        Need to learn new languages to add to my portfolio.
+        
 
 ### Part 5: Reflection on Challenges and Opportunities
 
