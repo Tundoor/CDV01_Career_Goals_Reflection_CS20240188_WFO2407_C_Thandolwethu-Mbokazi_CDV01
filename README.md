@@ -102,10 +102,12 @@ u
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+      
       *Become a entry level front-end developer:
         Complete course with CodeSpace
         Work on building up my skills by coding frequently
         Make use of the resources I have.
+      
       *Become A full stack developer:
         Solidify the skills I have.
         Learn new programming languages to add on to the ones i'm currently learning.
@@ -113,6 +115,7 @@ u
 
        
      - Include any resources or support required.
+         
          Social Network by going to community Fridays
          Ask my coach for pointers and help when needed 
          Use the resources available on the internet such as Scrimba, FreeCodeCamp, etc
@@ -121,9 +124,11 @@ u
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+
         To achieve my long term aspirations, I would need to firstly finish my short-term goals. They lay the foundation on whether or not my long term goals will be achievable. I also need to do a lot of extra work on my end, like workking while trying to study therefore needing to work on my time management so that my goals may be achieved.
 
     - Consider additional skills, experiences, or qualifications needed.
+
         Additional skills would be becoming comfortable with networking and talking to people.
         Need to learn new languages to add to my portfolio.
 
@@ -133,14 +138,17 @@ u
 1. **Anticipated Challenges**:
     
     *Identify potential obstacles or challenges in reaching your goals.
+      
        Loss of motivatuon
 
     *Consider strategies to overcome these challenges.
+
         To overcome this I could try remind myself why I wanted to achieve this goal to begin with by looking back at notes or anything that culd remind me. 
      
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
+        
         Use the internet to help renforce everything I've learned.
         Make use of CodeSpaces resources by participating in community Friday's and asking for help from my coach.
     
